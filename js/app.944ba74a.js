@@ -464,7 +464,7 @@
                                         on: { command: e.handleCommand },
                                     },
                                     [
-                                        e._v(" 語言 "),
+                                        e._v(" 언어 "),
                                         a(
                                             "el-dropdown-menu",
                                             {
@@ -6305,7 +6305,7 @@
                     [
                         a("h3", [
                             e._v(
-                                "最終更新：" +
+                                "최종수정：" +
                                     e._s(
                                         e.releases[e.releases.length - 1]
                                             .timestamp
@@ -6326,7 +6326,7 @@
                             [
                                 a(
                                     "el-collapse-item",
-                                    { attrs: { title: "更新履歴" } },
+                                    { attrs: { title: "수정내역" } },
                                     [
                                         a(
                                             "el-timeline",
@@ -8509,7 +8509,7 @@
                         a("calculated-values"),
                         a("el-divider"),
                         a("release-note"),
-                        a("h3", [e._v("注意事項")]),
+                        a("h3", [e._v("주의사항")]),
                         a("ol", [
                             a("li", [e._v(e._s(e.$t("message.remark1")))]),
                             a("li", [e._v(e._s(e.$t("message.remark2")))]),
