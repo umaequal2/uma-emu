@@ -2115,7 +2115,7 @@
                         a("calculated-values"),
                         a("el-divider"),
                         a("release-note"),
-                        a("h3", [e._v("注意事項")]),
+                        a("h3", [e._v("주의할점")]),
                         a("ol", [
                             a("li", [e._v(e._s(e.$t("message.remark1")))]),
                             a("li", [e._v(e._s(e.$t("message.remark2")))]),
@@ -8509,7 +8509,7 @@
                         a("calculated-values"),
                         a("el-divider"),
                         a("release-note"),
-                        a("h3", [e._v("주의사항")]),
+                        a("h3", [e._v("주의할점")]),
                         a("ol", [
                             a("li", [e._v(e._s(e.$t("message.remark1")))]),
                             a("li", [e._v(e._s(e.$t("message.remark2")))]),
